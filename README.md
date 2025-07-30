@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 Welcome to my GitHub! I'm interested in all things Python and Data Science! 
 <!--
