@@ -7,21 +7,19 @@ Welcome to my GitHub! I'm interested in all things Python and Data Science!
 
 ## 🚀 Featured Projects 
 
-### 1. 🎯 Driver Behavior Detector
-A CNN based Deep Learning model that classifies driver images into 5 main categories
+## 1. 🎯 Driver Behavior Detector  **[Visit](https://github.com/guntaaskapoor24/Driver-Behavior-Detector)**
+A CNN based Deep Learning model that classifies driver images into 5 main categories. 
 
 **Key Highlights:**
 - Used 3 pre - trained architectures - VGG16, ResNet101, AlexNet
 - Explored various Deep Learning Fundamentals like Convolution Operation, Pooling, Strides, Transfer Learning etc.
 - Built a streamlit application for the working of the model.
 
-🔗 [Visit](https://github.com/guntaaskapoor24/Driver-Behavior-Detector)
-
 ---
 
 
 
-## 2. 💳 Credit Card Default Prediction
+## 2. 💳 Credit Card Default Prediction [Visit](https://github.com/guntaaskapoor24/Credit-Card-Default-Prediction)
 Leveraging Ensemble Learning Architectures to predict if a person would default on their credit card payment
 
 **Key Highlights**
@@ -32,7 +30,7 @@ Leveraging Ensemble Learning Architectures to predict if a person would default 
 
 ---
 
-## 3. 📊 Customer Churn Analysis using Tableau
+## 3. 📊 Customer Churn Analysis using Tableau [Visit](https://github.com/guntaaskapoor24/Tableau-Customer-Churn-Analysis)
 Evaluating customer churn based on various multiple factors
 
 **Key Highlights**
