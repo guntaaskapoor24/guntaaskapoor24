@@ -30,14 +30,14 @@ Leveraging Ensemble Learning Architectures to predict if a person would default 
 - Leveraged 4 Ensemble Learning techniques - XGBoost, CatBoost, Random Forest and LightGBM
 - Performed comprehensive hyper parameter tuning to improve baseline scores.
 
-
+---
 
 ## 3. 📊 Customer Churn Analysis using Tableau
-Evaluating customer
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+Evaluating customer churn based on various multiple factors
+
+**Key Highlights**
+- Utilised various Tableau features like calculated fields, tooltips, parameters and KPIs.
+- Analysed customer churn trends across countries, age, income and other useful demographics.
+
+---
+
